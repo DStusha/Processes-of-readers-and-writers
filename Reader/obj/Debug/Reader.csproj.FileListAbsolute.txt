@@ -1,0 +1,17 @@
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\OC\lab5\Reader\bin\Debug\Reader.exe.config
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\OC\lab5\Reader\bin\Debug\Reader.exe
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\OC\lab5\Reader\bin\Debug\Reader.pdb
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\OC\lab5\Reader\obj\Debug\Reader.exe
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\OC\lab5\Reader\obj\Debug\Reader.pdb
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\OC\lab5\Reader\Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)\Reader.exe.config
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\OC\lab5\Reader\Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)\Reader.exe
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\OC\lab5\Reader\Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)\Reader.pdb
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\OC\lab5\lab5\bin\Debug\Reader.exe.config
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\OC\lab5\lab5\bin\Debug\Reader.exe
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\OC\lab5\lab5\bin\Debug\Reader.pdb
+C:\Users\123\Documents\Visual Studio 2017\Projects\Processes\Processes\bin\Debug\Reader.exe.config
+C:\Users\123\Documents\Visual Studio 2017\Projects\Processes\Processes\bin\Debug\Reader.exe
+C:\Users\123\Documents\Visual Studio 2017\Projects\Processes\Processes\bin\Debug\Reader.pdb
+C:\Users\123\Documents\Visual Studio 2017\Projects\Processes\Reader\obj\Debug\Reader.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\Visual Studio 2017\Projects\Processes\Reader\obj\Debug\Reader.exe
+C:\Users\123\Documents\Visual Studio 2017\Projects\Processes\Reader\obj\Debug\Reader.pdb

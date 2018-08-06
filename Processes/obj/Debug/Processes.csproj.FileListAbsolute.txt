@@ -1,0 +1,6 @@
+c:\users\123\documents\visual studio 2017\Projects\Processes\Processes\bin\Debug\Processes.exe.config
+c:\users\123\documents\visual studio 2017\Projects\Processes\Processes\bin\Debug\Processes.exe
+c:\users\123\documents\visual studio 2017\Projects\Processes\Processes\bin\Debug\Processes.pdb
+c:\users\123\documents\visual studio 2017\Projects\Processes\Processes\obj\Debug\Processes.csprojResolveAssemblyReference.cache
+c:\users\123\documents\visual studio 2017\Projects\Processes\Processes\obj\Debug\Processes.exe
+c:\users\123\documents\visual studio 2017\Projects\Processes\Processes\obj\Debug\Processes.pdb

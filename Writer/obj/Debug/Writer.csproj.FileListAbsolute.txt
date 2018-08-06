@@ -1,0 +1,17 @@
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\OC\lab5\Writer\bin\Debug\Writer.exe.config
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\OC\lab5\Writer\bin\Debug\Writer.exe
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\OC\lab5\Writer\bin\Debug\Writer.pdb
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\OC\lab5\Writer\obj\Debug\Writer.exe
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\OC\lab5\Writer\obj\Debug\Writer.pdb
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\OC\lab5\Writer\Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)\Writer.exe.config
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\OC\lab5\Writer\Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)\Writer.exe
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\OC\lab5\Writer\Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)\Writer.pdb
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\OC\lab5\lab5\bin\Debug\Writer.exe.config
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\OC\lab5\lab5\bin\Debug\Writer.exe
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\OC\lab5\lab5\bin\Debug\Writer.pdb
+C:\Users\123\Documents\Visual Studio 2017\Projects\Processes\Processes\bin\Debug\Writer.exe.config
+C:\Users\123\Documents\Visual Studio 2017\Projects\Processes\Processes\bin\Debug\Writer.exe
+C:\Users\123\Documents\Visual Studio 2017\Projects\Processes\Processes\bin\Debug\Writer.pdb
+C:\Users\123\Documents\Visual Studio 2017\Projects\Processes\Writer\obj\Debug\Writer.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\Visual Studio 2017\Projects\Processes\Writer\obj\Debug\Writer.exe
+C:\Users\123\Documents\Visual Studio 2017\Projects\Processes\Writer\obj\Debug\Writer.pdb
